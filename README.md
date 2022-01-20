@@ -2,4 +2,4 @@
 
 A website all about cryptocurrencies.
 
-[!demo](chrome-capture.gif)
+![demo](chrome-capture.gif)
